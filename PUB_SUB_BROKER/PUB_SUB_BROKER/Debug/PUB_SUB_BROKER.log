@@ -1,0 +1,29 @@
+﻿  PUB_SUB_BROKER.cpp
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(88): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(99): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(101): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(103): warning C4018: '<': signed/unsigned mismatch
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(266): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+  d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(266): note: consider using '%ls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(266): note: consider using '%lls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(266): note: consider using '%Ls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(266): note: consider using '%ws' in the format string
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(395): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+  d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(395): note: consider using '%ls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(395): note: consider using '%lls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(395): note: consider using '%Ls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(395): note: consider using '%ws' in the format string
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(387): warning C4101: 'numbytes': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(389): warning C4101: 's': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(540): warning C4101: 'remoteaddr': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(539): warning C4101: 'remoteIP': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(627): warning C4101: 'p': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(693): warning C4101: 'buf': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(691): warning C4101: 'listener': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(689): warning C4101: 'j': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(697): warning C4101: 'remoteaddr': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(696): warning C4101: 'remoteIP': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(694): warning C4101: 'nbytes': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_broker\pub_sub_broker\pub_sub_broker.cpp(698): warning C4101: 'addrlen': unreferenced local variable
+  PUB_SUB_BROKER.vcxproj -> D:\workspace\VISUAL STUDIO\PROJECTS\PUB_SUB_BROKER\Debug\PUB_SUB_BROKER.exe
+  PUB_SUB_BROKER.vcxproj -> D:\workspace\VISUAL STUDIO\PROJECTS\PUB_SUB_BROKER\Debug\PUB_SUB_BROKER.pdb (Full PDB)

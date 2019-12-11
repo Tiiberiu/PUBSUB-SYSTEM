@@ -1,0 +1,15 @@
+﻿  PUB_SUB_Syncronizer.cpp
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(115): warning C4101: 'remoteaddr': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(114): warning C4101: 'remoteIP': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(169): warning C4101: 'buf': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(212): warning C4101: 'buf': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(276): warning C4101: 'p': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(343): warning C4101: 'buf': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(341): warning C4101: 'listener': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(339): warning C4101: 'j': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(347): warning C4101: 'remoteaddr': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(346): warning C4101: 'remoteIP': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(344): warning C4101: 'nbytes': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_syncronizer\pub_sub_syncronizer\pub_sub_syncronizer.cpp(348): warning C4101: 'addrlen': unreferenced local variable
+  PUB_SUB_Syncronizer.vcxproj -> D:\workspace\VISUAL STUDIO\PROJECTS\PUB_SUB_Syncronizer\Debug\PUB_SUB_Syncronizer.exe
+  PUB_SUB_Syncronizer.vcxproj -> D:\workspace\VISUAL STUDIO\PROJECTS\PUB_SUB_Syncronizer\Debug\PUB_SUB_Syncronizer.pdb (Full PDB)

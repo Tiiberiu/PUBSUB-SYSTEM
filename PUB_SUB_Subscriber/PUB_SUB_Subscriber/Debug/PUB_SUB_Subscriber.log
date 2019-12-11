@@ -1,0 +1,18 @@
+﻿  PUB_SUB_Subscriber.cpp
+d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(64): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(141): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(198): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+  d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(198): note: consider using '%ls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(198): note: consider using '%lls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(198): note: consider using '%Ls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(198): note: consider using '%ws' in the format string
+d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(294): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+  d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(294): note: consider using '%ls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(294): note: consider using '%lls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(294): note: consider using '%Ls' in the format string
+  d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(294): note: consider using '%ws' in the format string
+d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(286): warning C4101: 'numbytes': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(288): warning C4101: 's': unreferenced local variable
+d:\workspace\visual studio\projects\pub_sub_subscriber\pub_sub_subscriber\pub_sub_subscriber.cpp(323): warning C4715: 'connectToBroker': not all control paths return a value
+  PUB_SUB_Subscriber.vcxproj -> D:\workspace\VISUAL STUDIO\PROJECTS\PUB_SUB_Subscriber\Debug\PUB_SUB_Subscriber.exe
+  PUB_SUB_Subscriber.vcxproj -> D:\workspace\VISUAL STUDIO\PROJECTS\PUB_SUB_Subscriber\Debug\PUB_SUB_Subscriber.pdb (Full PDB)
